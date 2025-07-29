@@ -32,12 +32,14 @@ Cognitive Load Mgmt	Break down tasks. Use examples and flows.
 💡 Well-engineered prompts reduce time, boost accuracy, and minimize iteration.
 
 🧠 # Advanced Techniques
+
 Technique	Description	Sample
-Chain-of-Thought	Step-by-step logic	"Let’s solve this step by step..."
-Few-Shot Learning	Provide examples	"Here are 3 samples. Now continue..."
-Role-Based Prompting	Assign expertise	"You are a senior ML engineer..."
-Constraint-Based	Enforce rules	"Explain in 100 words. No jargon."
-Iterative Refinement	Build in stages	"Start with outline. Then expand."
+
+# Chain-of-Thought	Step-by-step logic	"Let’s solve this step by step..."
+# Few-Shot Learning	Provide examples	"Here are 3 samples. Now continue..."
+# Role-Based Prompting	Assign expertise	"You are a senior ML engineer..."
+# Constraint-Based	Enforce rules	"Explain in 100 words. No jargon."
+# Iterative Refinement	Build in stages	"Start with outline. Then expand."
 
 🎯 Combine techniques for precision, clarity, and creativity.
 
