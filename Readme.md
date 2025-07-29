@@ -23,6 +23,7 @@ This guide fuses theory + practice, offering battle-tested frameworks, advanced 
 🎓 Final Thoughts
 
 🔑#  Core Principles
+
 Principle	Description
 Clarity & Specificity	Be precise. Ambiguity weakens output.
 Context Engineering	Add background, goals, structure. Layer detail.
