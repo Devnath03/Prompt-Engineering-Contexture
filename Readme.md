@@ -62,6 +62,7 @@ A → Action
 R → Result
 </details> <details> <summary><strong>
 
+
 🧠 SPADE Model</strong></summary>
 
 S → Situation  
