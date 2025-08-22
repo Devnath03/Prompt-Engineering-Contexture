@@ -148,42 +148,42 @@ Prompting is system design. Approach it like code: refactor regularly, test thor
 
 ---
 
-💬 Want to contribute or translate? PRs welcome. Open an issue or start a discussion.
-Deliverables:
+## Deliverables (examples)
 
-Personas
-Journey Maps
-Problem/Solution Fits
-MVP Test Ideas
+| Deliverable | Purpose |
+|---|---|
+| Personas | Define user archetypes to guide tone and requirements |
+| Journey Maps | Visualize user flows and pain points |
+| Problem / Solution Fits | Validate that solutions address core problems |
+| MVP Test Ideas | Quick experiments to validate assumptions |
 
-📚 Education
-You are a history teacher. Create a lesson plan:
+---
 
-Topic: World War II
-Grade: 10
-Include: Timeline, key figures, interactive activity
-Output: Objectives, materials, assessment.
+## 📚 Education — Lesson Plan Example
 
-✅ Best Practices Summary
-✅ Do:
+| Field | Details |
+|---|---|
+| Topic | World War II |
+| Grade | 10 |
+| Includes | Timeline, key figures, interactive activity |
+| Output | Objectives, materials, assessment |
 
-📦 Define output format (e.g., JSON, bullet points)
-🧠 Provide examples & context
-🔒 Add constraints & roles
-🪜 Break tasks into parts
-🔁 Test multiple versions
-📏 Use delimiters like """ or XML for structure
-🔄 Leverage the latest models for better results
+---
 
-❌ Don’t:
+## ✅ Best Practices (quick)
 
-❗ Assume prior knowledge
-🌀 Combine too many goals
-🧩 Skip examples or limits
-💭 Expect perfect on first try
-🗣️ Use vague language
-🚫 Overload with unnecessary details
+| Do | Don't |
+|---|---|
+| Define output format (JSON, bullets) | Assume prior knowledge |
+| Provide examples & context | Combine too many goals in one prompt |
+| Break tasks into parts | Expect perfect on first try |
 
+---
+
+## Contributing & Support
+
+- Want to contribute or translate? PRs welcome.  
+- Questions? Open an issue or start a discussion.
 🎓 Final Thoughts
 Prompting is system design. Approach it like code: ✍️ Refactor regularly, ✅ Test thoroughly, 📈 Scale strategically.
 As a beginner, start with simple prompts and experiment. Resources like OpenAI's guide or PromptingGuide.ai can deepen your knowledge.
