@@ -186,10 +186,15 @@ Prompting is system design. Approach it like code: refactor regularly, test thor
 - Questions? Open an issue or start a discussion.
 🎓 Final Thoughts
 Prompting is system design. Approach it like code: 
+
 ✍️ Refactor regularly, 
+
 ✅ Test thoroughly, 
+
 📈 Scale strategically.
+
 As a beginner, start with simple prompts and experiment. Resources like OpenAI's guide or PromptingGuide.ai can deepen your knowledge.
+
 📎 Want to contribute or translate? PRs welcome.
 
 💬 Questions? Open an issue or start a discussion!
