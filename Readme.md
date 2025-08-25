@@ -184,7 +184,9 @@ Prompting is system design. Approach it like code: refactor regularly, test thor
 
 - Want to contribute or translate? PRs welcome.  
 - Questions? Open an issue or start a discussion.
+
 🎓 Final Thoughts
+
 Prompting is system design. Approach it like code: 
 
 ✍️ Refactor regularly, 
