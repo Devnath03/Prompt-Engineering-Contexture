@@ -120,8 +120,6 @@ Example optimization:
 
 ## 🧩 Advanced Examples
 
-(Examples condensed for readability — use the frameworks above to expand.)
-
 - Business Strategy: SaaS firm entering EU — Market scan, competitive SWOT, GTM plan, ROI model, 6‑month execution roadmap.
 - ML System Design: Radiology image classifier — 10K+ images/day, ≥95% accuracy, explainability, HIPAA compliance. Structure: Architecture → Dataset → Model → Eval → Deployment.
 - Social Innovation: Urban food waste — Personas, journey maps, problem/solution fits, MVP test ideas.
