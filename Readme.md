@@ -195,7 +195,8 @@ Prompting is system design. Approach it like code:
 
 📈 Scale strategically.
 
-As a beginner, start with simple prompts and experiment. Resources like OpenAI's guide or PromptingGuide.ai can deepen your knowledge.
+As a beginner, start with simple prompts and experiment. 
+Resources like OpenAI's guide or PromptingGuide.ai can deepen your knowledge.
 
 📎 Want to contribute or translate? PRs welcome.
 
